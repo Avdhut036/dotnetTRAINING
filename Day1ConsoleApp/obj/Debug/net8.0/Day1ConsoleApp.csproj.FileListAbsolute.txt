@@ -1,0 +1,14 @@
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\bin\Debug\net8.0\Day1ConsoleApp.exe
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\bin\Debug\net8.0\Day1ConsoleApp.deps.json
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\bin\Debug\net8.0\Day1ConsoleApp.runtimeconfig.json
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\bin\Debug\net8.0\Day1ConsoleApp.dll
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\bin\Debug\net8.0\Day1ConsoleApp.pdb
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.AssemblyInfoInputs.cache
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.AssemblyInfo.cs
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.dll
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\refint\Day1ConsoleApp.dll
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.pdb
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\Day1ConsoleApp.genruntimeconfig.cache
+D:\Daddy\Day1ConsoleApp\Day1ConsoleApp\obj\Debug\net8.0\ref\Day1ConsoleApp.dll
